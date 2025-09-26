@@ -1,10 +1,17 @@
 package model;
+import ui;
 
 public class Cliente {
+
+    private String nombre ;
+    private int edad;
+    private String id;
     
+    public agregarCuentaCliente(String nombre, double saldoActual, TypeCuenta tipoCuenta) {
+        this.nombre
+    }
 
-
-    public Cliente(){
+    public Cliente(String nombre){
 
 
     }

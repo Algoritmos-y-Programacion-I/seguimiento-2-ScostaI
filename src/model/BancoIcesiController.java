@@ -2,6 +2,8 @@ package model;
 
 public class BancoIcesiController {
 
+
+    cliente
      /*
      * ATENCION !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
      * Agregue los atributos (relaciones) necesarios para satisfacer los requerimientos.
